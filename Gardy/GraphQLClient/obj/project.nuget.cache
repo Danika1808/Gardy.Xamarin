@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmSW+j8pAt7Mpw2b+AYYbBSZwKtsaU0j4tSXvyMO3qWuHtHEK5fjxfHZBsHDKdklpgCgUxS9ScFBvsxnmPu6hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danik\\source\\repos\\Gardy\\GraphQLClient\\GraphQLClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danik\\.nuget\\packages\\graphql.client\\4.0.2\\graphql.client.4.0.2.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\graphql.client.abstractions\\4.0.2\\graphql.client.abstractions.4.0.2.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\graphql.client.abstractions.websocket\\4.0.2\\graphql.client.abstractions.websocket.4.0.2.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\4.0.2\\graphql.client.serializer.newtonsoft.4.0.2.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\graphql.primitives\\4.0.2\\graphql.primitives.4.0.2.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\danik\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,5 +1,0 @@
-C:\Users\danik\source\repos\Gardy\GraphQLClient\obj\Debug\net6.0\GraphQLClient.csproj.AssemblyReference.cache
-C:\Users\danik\source\repos\Gardy\GraphQLClient\obj\Debug\net6.0\GraphQLClient.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danik\source\repos\Gardy\GraphQLClient\obj\Debug\net6.0\GraphQLClient.AssemblyInfoInputs.cache
-C:\Users\danik\source\repos\Gardy\GraphQLClient\obj\Debug\net6.0\GraphQLClient.AssemblyInfo.cs
-C:\Users\danik\source\repos\Gardy\GraphQLClient\obj\Debug\net6.0\GraphQLClient.csproj.CoreCompileInputs.cache
